@@ -2,7 +2,7 @@
 
 This is a quick tutorial about how to download youtube video/audio with command lines. I am a mac user, so the tutoral is based on a mac environment. 
 
-Before you starts, please install homebrew on your mac via Terminal. Check the link below to do the installation: 
+Before you start, please install homebrew on your mac via Terminal. Check the link below to do the installation: 
 https://brew.sh/ 
 
 1. install youtub-dl,type the following commands in your terminal <br />
